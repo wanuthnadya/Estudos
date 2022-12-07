@@ -1,2 +1,4 @@
-# Estudos
-Estudos sobre a área de qualidade e testes
+👨‍🎓 ☕🤓💻 👩‍🎓
+
+pasta colaborativa de estudos sobre diversos frameworks e linguagens de programação
+
